@@ -37,8 +37,6 @@ Tienes 2 opciones:
 ### Opción 1: En la interfaz (Recomendado)
 Simplemente ejecuta `./run-agent.sh` y pega tu API key en el campo de texto de la aplicación.
 
-chmod +x run-agent.sh
-
 ### Opción 2: En archivo .env
 Edita el archivo `.env` y agrega tu key:
 ```
